@@ -10,7 +10,6 @@ This project generates random numbers through a clean and user-friendly interfac
 - Simple and user-friendly interface.
 - Responsive design.
 - Built with vanilla JavaScript.
-- Clean and lightweight design.
-
-🚀 View Live Demo
+- Clean and lightweight design
+Live Demo 🚀 
 (https://devchanuu.github.io/-6-JAVASCRIPT-Random-Number-Generator/)
